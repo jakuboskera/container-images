@@ -12,3 +12,4 @@ This repository contains Dockerfiles for common container images.
 
 - [jakuboskera/hey](./hey)
 - [jakuboskera/pre-commit](./pre-commit)
+- [jakuboskera/kubeconform](./kubeconform)
